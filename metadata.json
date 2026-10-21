@@ -1,0 +1,6 @@
+{
+  "name": "CampusDesk - Student Management System",
+  "description": "Premium monochrome Student Management System with refined Claymorphism UI for academic attendance, assignments, and student records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
